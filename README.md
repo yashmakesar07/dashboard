@@ -45,6 +45,7 @@ git clone https://github.com/yashmakesar07/dashboard.git
 ### 2. Install Dependencies
 - Ensure that Node.js and npm (or Yarn) are installed on your system. Then, install the project dependencies:
 ```
+cd dashboard
 npm install
 ```
 ### 3. Run the Application in Development Mode
