@@ -64,11 +64,14 @@ This command will generate optimized static files in the dist directory, which c
 
 ### 5. Preview the Production Build (Optional)
 - If you'd like to preview the production build locally, you can run:
+```
 npm run preview
+```
 This will serve the contents of the dist directory so you can view the production build locally.
 
 ### 6. Deployment
-- To deploy the application, follow the deployment instructions specific to your hosting provider (e.g., GitHub Pages, Netlify, Vercel).
+- The application is deployed on vercel
+- deployment link (https://dashboard-zeta-livid-55.vercel.app/)
 
 ## How to Use
 ### Adding a Widget:
