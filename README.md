@@ -1,7 +1,7 @@
 # Dynamic Dashboard Widget Management
 
 ## Live Demo
-[View the Live Demo]([https://dashboard-zeta-livid-55.vercel.app/])
+[View the Live Demo](https://dashboard-zeta-livid-55.vercel.app/)
 
 ## Project Overview
 This project is a dynamic dashboard page where users can add, remove, and manage widgets within specific categories. Each widget can contain random text for assignment purposes. The application is built using React with Redux Toolkit for state management and styled with Tailwind CSS. The project setup was initiated using Vite for a fast and optimized development experience.
