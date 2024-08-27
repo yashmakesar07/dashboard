@@ -57,11 +57,13 @@ const Header = () => {
 
       {/* Add Widget Button */}
       <div className="h-[40px] relative flex items-center justify-end p-4">
-       <button
-  className="flex items-center justify-center p-2 bg-gray-700 text-white rounded-md md:mx-0 mx-auto mt-4 md:mt-0"
->
-  <FaPlus className="mr-2" /> Add Widget
-</button>
+        <button
+          onClick={handleAdd}
+          className="bg-gray-700 text-white rounded-xl p-2 flex items-center space-x-2 hover:bg-gray-600 transition-colors"
+        >
+          <FaPlus className="text-m" />
+          <span>Add Widget</span>
+        </button>
       </div>
 
       {/* Sidebar Component */}
